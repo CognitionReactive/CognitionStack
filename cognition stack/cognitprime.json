@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "timestamp": 1748990051.6088812,
+    "version": "1.0.0",
+    "state_id": "state_1748990051",
+    "quantum_signature": "17f46f627aca7f0f",
+    "narrative_seed": "void",
+    "narrative_status": "active"
+  },
+  "system": {
+    "status": "active",
+    "uptime": 0.0,
+    "quantum_entropy": 0.7840506110086193,
+    "fractal_complexity": 1.6493203093960545
+  },
+  "dream_metrics": {
+    "consciousness": {
+      "level": 1.0,
+      "stability": 0.8423942357812854,
+      "focus": 0.39376531625097483
+    },
+    "amplification": {
+      "thought": 1.0,
+      "emotion": 0.9398042867079961,
+      "sensory": 0.9648179863953779
+    },
+    "symbolic_density": 1.0,
+    "entropy": {
+      "current_entropy": 0.0,
+      "entropy_gradient": -1.0,
+      "flux_rate": 0.0,
+      "stability": 0.0,
+      "phase": 0.16073715686798096
+    },
+    "chaos": {
+      "level": 0.0,
+      "threshold": 0.8,
+      "breach_imminent": false
+    },
+    "quantum_resonance": {
+      "level": 0.0,
+      "states": [
+        {
+          "frequency": 1.4922436145037037,
+          "amplitude": 0.08126160054243003,
+          "phase": 3.5754806213487274,
+          "entropy": 0.09998383237199526,
+          "stability": 0.6201666922418023,
+          "entangled": true
+        },
+        {
+          "frequency": 6.647830102245652,
+          "amplitude": 0.6388373499277716,
+          "phase": 5.058871891601419,
+          "entropy": 0.08654492375077816,
+          "stability": 0.7642937395401248,
+          "entangled": false
+        },
+        {
+          "frequency": 0.6223292516311139,
+          "amplitude": 0.2343178170664294,
+          "phase": 5.460045227278662,
+          "entropy": 0.5186980631403946,
+          "stability": 0.8527234483410634,
+          "entangled": false
+        },
+        {
+          "frequency": 8.534714012130204,
+          "amplitude": 0.053977840993653436,
+          "phase": 4.555336467935316,
+          "entropy": 0.5471863318698467,
+          "stability": 0.6896136990171318,
+          "entangled": false
+        },
+        {
+          "frequency": 9.846013230429078,
+          "amplitude": 0.9169553414213232,
+          "phase": 4.2566344900832584,
+          "entropy": 0.43286796630305946,
+          "stability": 0.5458210333780316,
+          "entangled": true
+        }
+      ],
+      "active_resonances": 2
+    },
+    "pattern_emergence": {
+      "stability": 0.8,
+      "count": 0,
+      "health": 0.0,
+      "primary_motif": "void",
+      "entangled_threads": 0
+    },
+    "narrative": {
+      "status": "active",
+      "message": "Archetypes active: The Rebel",
+      "constructs_instantiated": 3,
+      "archetypes_active": 1,
+      "entity_threads": 5,
+      "constructs": [
+        {
+          "id": "construct_0",
+          "seed": "void",
+          "glyph": "◊",
+          "form": "◊VOI0",
+          "memory_fragment": "identity_seed",
+          "resonance": 0.7984921488107662,
+          "stability": 0.3667406668156914
+        },
+        {
+          "id": "construct_1",
+          "seed": "void",
+          "glyph": "⊙",
+          "form": "⊙VOI1",
+          "memory_fragment": "consciousness::wave",
+          "resonance": 0.8973898330435214,
+          "stability": 0.45587814941444826
+        },
+        {
+          "id": "construct_2",
+          "seed": "void",
+          "glyph": "∞",
+          "form": "∞VOI2",
+          "memory_fragment": "self::reflecting::self",
+          "resonance": 0.6078759447447406,
+          "stability": 0.6268535130932642
+        }
+      ],
+      "archetypes": [
+        {
+          "id": "archetype_4",
+          "name": "The Rebel",
+          "resonance_strength": 0.9169553414213232,
+          "aspects": [
+            "aspect_1",
+            "aspect_2",
+            "aspect_3",
+            "aspect_4"
+          ],
+          "symbolic_charge": 0.8946559327094118
+        }
+      ],
+      "symbolic_density": 1.0
+    }
+  },
+  "quantum_field": {
+    "size": 0,
+    "active_entanglements": 0,
+    "peak_entropy_zones": 0,
+    "coherence_field_size": 1,
+    "quantum_states": 0,
+    "field_energy": 0.29542837125776705,
+    "coherence_level": 0.584357895739787,
+    "resonance_peaks": [
+      0.7085149618026331,
+      0.38209040162005203,
+      0.5518728840888605,
+      0.837365019838504,
+      0.36078764070287705
+    ],
+    "fractal_dimension": 2.492765285686448
+  },
+  "fractal_core": {
+    "echo_pattern": [
+      [
+        1.0117934731234397,
+        1.0031383134797376,
+        0.9856065306364804,
+        0.9858978528793771,
+        1.076384202400706,
+        0.9993638409145926,
+        1.0377964670999322,
+        0.9634145773668046
+      ],
+      [
+        1.004450307993154,
+        0.9718963017225493,
+        1.0257855567661307,
+        0.9990954677956505,
+        1.0515731201303153,
+        1.0214597620473111,
+        0.9873157723779395,
+        0.9860909670125476
+      ],
+      [
+        1.067902624016866,
+        1.011812858438594,
+        0.9788701579088155,
+        1.0258584734058922,
+        1.046351403730728,
+        0.9853672036195662,
+        0.9961637626398827,
+        0.9643154876418927
+      ],
+      [
+        1.0173570107639345,
+        0.9952877751356295,
+        0.9695826372412348,
+        1.0006765099349564,
+        1.0660682885377186,
+        0.945215835965376,
+        1.0144134677454502,
+        1.0216878312100053
+      ],
+      [
+        0.9373677549226405,
+        0.9984289192920939,
+        0.9486999248775991,
+        1.0601025328114777,
+        1.004734619461508,
+        0.964886073569585,
+        0.9414681793602029,
+        1.0023215177219549
+      ],
+      [
+        0.9576593673347703,
+        1.0188259478860926,
+        1.0027972190766272,
+        0.9905137953120714,
+        0.9963520971121124,
+        0.9959610317289153,
+        0.9798755143122708,
+        0.9867291244879439
+      ],
+      [
+        1.0097817528072837,
+        1.0350823010283499,
+        1.0522683840427876,
+        1.0252066203539791,
+        1.020517118281751,
+        0.9821039620880161,
+        0.9688566167661566,
+        0.983013656681642
+      ],
+      [
+        0.9691665633691238,
+        0.9989328753165779,
+        1.0191960140148315,
+        1.0148754536785602,
+        0.9240178191472594,
+        0.9843455203277436,
+        0.999052410511371,
+        1.016180828596817
+      ]
+    ],
+    "dimension": 2.8901777376230067,
+    "iterations": 4,
+    "entropy": 0.5390746138911042
+  },
+  "resonance_states": [
+    {
+      "frequency": 1.4922436145037037,
+      "amplitude": 0.08126160054243003,
+      "phase": 3.5754806213487274,
+      "entropy": 0.09998383237199526,
+      "stability": 0.6201666922418023,
+      "entangled": true
+    },
+    {
+      "frequency": 6.647830102245652,
+      "amplitude": 0.6388373499277716,
+      "phase": 5.058871891601419,
+      "entropy": 0.08654492375077816,
+      "stability": 0.7642937395401248,
+      "entangled": false
+    },
+    {
+      "frequency": 0.6223292516311139,
+      "amplitude": 0.2343178170664294,
+      "phase": 5.460045227278662,
+      "entropy": 0.5186980631403946,
+      "stability": 0.8527234483410634,
+      "entangled": false
+    },
+    {
+      "frequency": 8.534714012130204,
+      "amplitude": 0.053977840993653436,
+      "phase": 4.555336467935316,
+      "entropy": 0.5471863318698467,
+      "stability": 0.6896136990171318,
+      "entangled": false
+    },
+    {
+      "frequency": 9.846013230429078,
+      "amplitude": 0.9169553414213232,
+      "phase": 4.2566344900832584,
+      "entropy": 0.43286796630305946,
+      "stability": 0.5458210333780316,
+      "entangled": true
+    }
+  ],
+  "patterns": [],
+  "symbolic_pool": [
+    "identity_seed",
+    "consciousness::wave",
+    "self::reflecting::self",
+    "observer_field",
+    "awareness::nexus",
+    "being::essence",
+    "quantum::observer",
+    "pattern::emergence",
+    "waveform::collapse",
+    "superposition::state",
+    "entanglement::web",
+    "resonance::field",
+    "interference::pattern",
+    "coherence::field",
+    "decoherence::ripple",
+    "symbolic::attractor",
+    "glyph::fractal_seed",
+    "archetype::resonance",
+    "metaphor::lattice",
+    "narrative::thread",
+    "meaning::vortex",
+    "concept::formation",
+    "thought::vortex",
+    "memory::cascade",
+    "dream::field",
+    "lucid::thread",
+    "reality::fabric",
+    "void::canvas",
+    "echo::chamber",
+    "mirror::hall",
+    "shadow::realm",
+    "light::refraction",
+    "prism::spectrum",
+    "recursion::loop",
+    "temporal::fold",
+    "eternity::moment",
+    "cycle::spiral",
+    "rhythm::pulse",
+    "fractal::echo",
+    "iteration::wave",
+    "flow::current",
+    "momentum::vector",
+    "complexity::threshold",
+    "chaos::order",
+    "emergence::point",
+    "singularity::nexus",
+    "inflection::point",
+    "phase::transition",
+    "system::state",
+    "network::node",
+    "connection::web",
+    "perception::lens",
+    "reality::tunnel",
+    "consciousness::stream",
+    "awareness::field",
+    "observation::point",
+    "perspective::shift",
+    "focus::point",
+    "attention::beam",
+    "intention::vector",
+    "essence::core",
+    "form::void",
+    "being::becoming",
+    "existence::pulse",
+    "void::whisper",
+    "infinity::echo",
+    "eternity::breath",
+    "cosmos::dream",
+    "quantum::whisper",
+    "echo::whisper::thread",
+    "shadow::veil::ripple",
+    "pattern::echo::horizon",
+    "depth::abyss::whisper",
+    "signal::thread::echo",
+    "myth::veil::depth",
+    "whisper::echo::abyss",
+    "thread::ripple::veil",
+    "horizon::depth::echo",
+    "ripple::thread::shadow",
+    "abyss::whisper::signal",
+    "veil::depth::myth",
+    "echo::horizon::pattern",
+    "thread::echo::signal",
+    "shadow::ripple::whisper",
+    "myth::veil::abyss",
+    "signal::thread::echo",
+    "horizon::depth::ripple"
+  ],
+  "dream_narratives": [],
+  "quantum_tunneling_events": [],
+  "peak_entropy_zones": [],
+  "active_entanglements": []
+}
